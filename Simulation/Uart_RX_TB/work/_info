@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Development/intelFPGA/18.1
+vUart_RX
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1603454271
+!i10b 1
+!s100 2>35IdE=]44]><26HM:;d0
+I0l@2U05X4cI=RROO4do]o3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Uart_RX_sv_unit
+S1
+Z3 dE:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_RX_TB
+w1603454269
+8E:/FPGA/Intel/DE1-SoC/FPGA/Uart/RTL/Uart_RX.sv
+FE:/FPGA/Intel/DE1-SoC/FPGA/Uart/RTL/Uart_RX.sv
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1603454271.000000
+!s107 E:/FPGA/Intel/DE1-SoC/FPGA/Uart/RTL/Uart_RX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/FPGA/Intel/DE1-SoC/FPGA/Uart/RTL/Uart_RX.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@uart_@r@x
+vUart_RX_TB
+R0
+R1
+!i10b 1
+!s100 LW:A4hj4<=HT48gz3D`AK2
+I:;2IaemHQ5gN[`EDcnG:82
+R2
+!s105 Uart_RX_TB_sv_unit
+S1
+R3
+w1603453147
+8E:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_RX_TB/Uart_RX_TB.sv
+FE:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_RX_TB/Uart_RX_TB.sv
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_RX_TB/Uart_RX_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_RX_TB/Uart_RX_TB.sv|
+!i113 1
+R7
+R8
+n@uart_@r@x_@t@b

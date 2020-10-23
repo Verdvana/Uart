@@ -1,0 +1,15 @@
+E:/FPGA/Intel/DE1-SoC/FPGA/UART/RTL/Uart_TX.sv {1 {vlog -work work -sv -stats=none E:/FPGA/Intel/DE1-SoC/FPGA/Uart/RTL/Uart_TX.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Uart_TX
+
+Top level modules:
+	Uart_TX
+
+} {} {}} E:/FPGA/Intel/DE1-SoC/FPGA/UART/Simulation/Uart_TX_TB/Uart_TX_TB.sv {1 {vlog -work work -sv -stats=none E:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_TX_TB/Uart_TX_TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Uart_TX_TB
+
+Top level modules:
+	Uart_TX_TB
+
+} {} {}}

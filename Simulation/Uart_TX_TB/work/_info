@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/T1/Project/ARM2FPGA_Communication/Simulation/ARM2FPGA_Communication_TB
+vUart_TX
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1603373809
+!i10b 1
+!s100 k_Q<GiYELcZdZJHIN3Q>=0
+IKgz1jGCSd:4Rm=AC7o4WU3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Uart_TX_sv_unit
+S1
+Z3 dE:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_TX_TB
+w1603373501
+8E:/FPGA/Intel/DE1-SoC/FPGA/Uart/RTL/Uart_TX.sv
+FE:/FPGA/Intel/DE1-SoC/FPGA/Uart/RTL/Uart_TX.sv
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1603373809.000000
+!s107 E:/FPGA/Intel/DE1-SoC/FPGA/Uart/RTL/Uart_TX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/FPGA/Intel/DE1-SoC/FPGA/Uart/RTL/Uart_TX.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@uart_@t@x
+vUart_TX_TB
+R0
+R1
+!i10b 1
+!s100 7K4>X[Wl4oZizd_TK9aFa1
+IF4;mWkF>V0PZM`VVdL[f82
+R2
+!s105 Uart_TX_TB_sv_unit
+S1
+R3
+w1603373734
+8E:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_TX_TB/Uart_TX_TB.sv
+FE:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_TX_TB/Uart_TX_TB.sv
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_TX_TB/Uart_TX_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/FPGA/Intel/DE1-SoC/FPGA/Uart/Simulation/Uart_TX_TB/Uart_TX_TB.sv|
+!i113 1
+R7
+R8
+n@uart_@t@x_@t@b
